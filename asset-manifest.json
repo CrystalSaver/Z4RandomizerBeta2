@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.4fcd6381.chunk.css",
-    "main.js": "./static/js/main.9eaadd37.chunk.js",
+    "main.js": "./static/js/main.6661a4e0.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.6adb6291.js",
-    "static/js/2.42a5c67b.chunk.js": "./static/js/2.42a5c67b.chunk.js",
+    "static/js/2.0ea21368.chunk.js": "./static/js/2.0ea21368.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.d84bdc637ee504caf568ce87730d0630.js": "./precache-manifest.d84bdc637ee504caf568ce87730d0630.js",
+    "precache-manifest.5614874389ba564b3fc19993508d7af2.js": "./precache-manifest.5614874389ba564b3fc19993508d7af2.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.42a5c67b.chunk.js.LICENSE.txt": "./static/js/2.42a5c67b.chunk.js.LICENSE.txt",
+    "static/js/2.0ea21368.chunk.js.LICENSE.txt": "./static/js/2.0ea21368.chunk.js.LICENSE.txt",
     "static/media/GraphicsAgesGirl.bin": "./static/media/GraphicsAgesGirl.4c0d9754.bin",
     "static/media/GraphicsBowwow.bin": "./static/media/GraphicsBowwow.ca5add2c.bin",
     "static/media/GraphicsBunny.bin": "./static/media/GraphicsBunny.f88a5aa9.bin",
     "static/media/GraphicsKirby.bin": "./static/media/GraphicsKirby.5584ad63.bin",
     "static/media/GraphicsLink.bin": "./static/media/GraphicsLink.e6d6e67c.bin",
     "static/media/GraphicsLuigi.bin": "./static/media/GraphicsLuigi.e80df1dd.bin",
-    "static/media/GraphicsMarin.bin": "./static/media/GraphicsMarin.8272c1cb.bin",
+    "static/media/GraphicsMarin.bin": "./static/media/GraphicsMarin.92c1bade.bin",
+    "static/media/GraphicsMarinAlpha.bin": "./static/media/GraphicsMarinAlpha.fa19dff9.bin",
     "static/media/GraphicsMario.bin": "./static/media/GraphicsMario.32f19826.bin",
     "static/media/GraphicsMartha.bin": "./static/media/GraphicsMartha.5f3d6e65.bin",
     "static/media/GraphicsMeme.bin": "./static/media/GraphicsMeme.5dd0686c.bin",
+    "static/media/GraphicsNESLink.bin": "./static/media/GraphicsNESLink.54809fbb.bin",
     "static/media/GraphicsRichard.bin": "./static/media/GraphicsRichard.c2ae3797.bin",
     "static/media/GraphicsRooster.bin": "./static/media/GraphicsRooster.d9ef86d3.bin",
     "static/media/GraphicsSubrosian.bin": "./static/media/GraphicsSubrosian.be070c8a.bin",
@@ -25,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6adb6291.js",
-    "static/js/2.42a5c67b.chunk.js",
+    "static/js/2.0ea21368.chunk.js",
     "static/css/main.4fcd6381.chunk.css",
-    "static/js/main.9eaadd37.chunk.js"
+    "static/js/main.6661a4e0.chunk.js"
   ]
 }
